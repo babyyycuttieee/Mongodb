@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongodb": "^4.4.1",
+    "sslkeylog": "^0.2.2"
+  }
+}
